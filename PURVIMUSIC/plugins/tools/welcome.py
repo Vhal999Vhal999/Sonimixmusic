@@ -4,11 +4,11 @@ from PIL import ImageDraw, Image, ImageFont, ImageChops
 from pyrogram import *
 from pyrogram.types import *
 from logging import getLogger
-from VIPMUSIC import LOGGER
+from PURVIMUSIC import LOGGER
 from pyrogram.types import Message
-from VIPMUSIC.misc import SUDOERS
-from VIPMUSIC import app
-from VIPMUSIC.utils.database import *
+from PURVIMUSIC.misc import SUDOERS
+from PURVIMUSIC import app
+from PURVIMUSIC.utils.database import *
 
 LOGGER = getLogger(__name__)
 
