@@ -38,7 +38,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002132108601))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 5489729364))
+OWNER_ID = int(getenv("OWNER_ID", 1384525218))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/DOSTON_KI_DUNIYAA")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ONLY_PUBLIC_LINK_SR")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ll_DPZ_WORLDS_ll")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/queenbotgrup")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
