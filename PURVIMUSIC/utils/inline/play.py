@@ -90,10 +90,10 @@ def stream_markup(_, chat_id):
          ],
         [
             InlineKeyboardButton(
-             #   text="𝖮𝗐𝗇𝖾𝗋🥀", url="https://t.me/THC_OWNER_SAHIL",
+                text="𝖮𝗐𝗇𝖾𝗋🥀", url="https://t.me/II_ROYALENTRY1128_II",
             ),
             InlineKeyboardButton(
-               # text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍🥀", url="https://t.me/ONLY_PUBLIC_LINK_SR",
+                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍🥀", url="https://t.me/ll_DPZ_WORLDS_ll",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
